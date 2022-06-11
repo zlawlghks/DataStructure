@@ -23,9 +23,11 @@ offer(value) -> 삽입 성공 true 반환, 실패시 false 반환
 
 ### Queue 값 삭제
 poll() -> 첫번째 값을 반환하고 제거
+<br>
 remove() -> 첫번째 값 제거
+<br>
 cleaer() -> queue 초기화
-
+<br>
 peek() -> 첫번째 값 참조
 
 <br>
